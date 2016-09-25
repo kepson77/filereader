@@ -1,3 +1,4 @@
+
 <?php
 /*This is a simple file reader application written by Kevin Epson for demonstrative purposes. It employs the Strategy 
  *design pattern.
